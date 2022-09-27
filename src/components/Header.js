@@ -30,7 +30,7 @@ const Header = () => {
                     {/* Sectors */}
                     <li>
                         < FaLightbulb className='icon'/>
-                        <Link to='/'>Themes</Link>
+                        <Link to='/sector'>Themes</Link>
                     </li>
 
 
